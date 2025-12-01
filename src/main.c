@@ -121,7 +121,7 @@ int main(int argc, char *argv[])
         }
     }
 
-    printf("Advent of Code 2018\n");
+    printf("Advent of Code 20XX\n");
     printf("===================\n\n");
 
     if (day == 0)
